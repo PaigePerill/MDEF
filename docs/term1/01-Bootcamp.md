@@ -5,7 +5,7 @@ hide:
 
 # Bootcamp
 
-:[](../images/01-Bootcamp/TOWARDS-ORGANICA-POSTER-A3.jpg)
+![](../images/01-Bootcamp/TOWARDS-ORGANICA-POSTER-A3.jpg)
 
 Towards Organica is a narrative in development. As we go about our daily lives, most of the information we capture about the future shows disastrous fact; it shapes a storytelling that is ultimately crippling us. By emerging an optimistic balance point in our future, this narrative hopes to define a human/non-human equilibrium to aspire to. I use storytelling to shape my work {my fight} so as to create an embodied idea of the nebulous instincts that pull me; but also to communicate outwards and invite others on an adventure straddling the practical and speculative.
 
