@@ -5,4 +5,4 @@ hide:
 
 # Atlas of Weak Signals
 
-![](../images/DesignSpace.jpg)
+![](../images/designspaceattempt2.jpg)
