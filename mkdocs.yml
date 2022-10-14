@@ -11,7 +11,7 @@ repo_url: 'https://github.com/PaigePerill/MDEF.git'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master project:
+  - Design Studio:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
