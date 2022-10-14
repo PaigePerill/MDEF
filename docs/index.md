@@ -1,3 +1,2 @@
-## Welcome
 
 ![](./images/greyscalewoods.jpg)
