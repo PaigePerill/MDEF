@@ -3,9 +3,9 @@ site_name: Paige Perillat-Piratoine
 site_description: Master in Design for Emergent Futures
 site_author: Paige Perillat-Piratoine
 copyright: Copyleft 2021 "Paige Perillat-Piratoine" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+repo_name: 'Paigeperill : Github Repo'
+site_url: https://paigeperill.github.io/MDEF/
+repo_url: 'https://github.com/PaigePerill/MDEF.git'
 
 
 nav:
@@ -18,7 +18,7 @@ nav:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
           - Bio Agri Zero: term1/03-Bio-Agri-Zero.md
-    
+
 
 extra:
   social:
