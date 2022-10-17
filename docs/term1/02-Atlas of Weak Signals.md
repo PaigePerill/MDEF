@@ -8,6 +8,7 @@ hide:
 ^^Assignment: "Choose your weak signals and arrange them on a board, attaching relevant reference projects, questions and  interventions"^^
 
 
+
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPOilaV8=/?moveToViewport=1571,-1113,1977,1319&embedId=657727160746" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 I approached the Atlas of Weak Signals exercise discursively. Because my plans for the future include creating a biodesign residency in a rural area, I chose the cards that corresponded to this goal: Interspecies Collaboration and Rural Futures.
