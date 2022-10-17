@@ -5,7 +5,8 @@ hide:
 
 # Atlas of Weak Signals
 
-![](../images/designspaceattempt2.jpg)
+![](images/designspaceattempt2.jpg)
+
 
 I approached the Atlas of Weak Signals exercise discursively. Because my plans for the future include creating a biodesign residency in a rural area, I chose the cards that corresponded to this goal: Interspecies Collaboration and Rural Futures.
 
