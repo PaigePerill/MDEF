@@ -22,7 +22,6 @@ The imagery included in the poster shows famous biodesign projects and tools, fr
 
 Assignment: "Reflect on your skills, knowledge and attitude and create a personal development plan in line with the curriculum"
 
-
 ![](../images/01-Bootcamp/krebbs.png)
 
 
