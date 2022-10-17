@@ -5,10 +5,6 @@ hide:
 
 # Atlas of Weak Signals
 
-![](./images/designspaceattempt2.jpg)
-
-/Users/paigeperill/Documents/MDEF/GITPPP/mdef-template/MDEF RIGHT ONE/docs/images/designspaceattempt2.jpeg
-
 I approached the Atlas of Weak Signals exercise discursively. Because my plans for the future include creating a biodesign residency in a rural area, I chose the cards that corresponded to this goal: Interspecies Collaboration and Rural Futures.
 
 If I have to distill them, these weak signals are the two forces I feel will drive the future I hope to live in. Rural Futures are crucial because this archetypal territory is the interface between the city and the wild. It is the liminal space where research into new ways of making can more adequately be explored because it is more exposed to the non-human. The City is too alienated, the Wild should be left alone. Rurality is the frontier of futures exploration, and it should do so through Interspecies Collaboration.  
@@ -24,3 +20,5 @@ Questions I want to explore this year that are reflected on the board are:
 - How does what we learn in the rural space affect the urban space?
 - How do we work ethically with other species?
 - What forms of storytelling help us shape our futures?
+
+![](./images/designspaceattempt2.jpg)
