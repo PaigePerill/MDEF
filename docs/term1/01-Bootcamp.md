@@ -18,7 +18,7 @@ The imagery included in the poster shows famous biodesign projects and tools, fr
 **Personal Development Plan**
 
 
-
+![](../images/01-Bootcamp/krebbs.png)
 
 
 As I develop Electric Skin, I am learning what it takes to go develop a biodesign project. I am embodying my future user/customer. I am able to explore what challenges exist for artists and designers, how to connect to the scary world of biotech and labs, how to gain funding but also how to collaborate in interdisciplinarity. In my microprojects in MDEF I will be doing the same. Embodying. All of the hoops I have to jump through will help me be a better facilitator when I create this future Space. I will also be observing the skills of my teachers/professors.
