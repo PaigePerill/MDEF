@@ -10,9 +10,8 @@ repo_url: 'https://github.com/PaigePerill/MDEF.git'
 
 nav:
   - Home: index.md
-  - About: about/me.md
   - Design Studio:
-      - Design Space: project/project.md
+      - Week 1: project/project.md
   - Reflections :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
