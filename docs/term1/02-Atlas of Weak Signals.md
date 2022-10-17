@@ -22,5 +22,3 @@ Questions I want to explore this year that are reflected on the board are:
 - How does what we learn in the rural space affect the urban space?
 - How do we work ethically with other species?
 - What forms of storytelling help us shape our futures?
-
-![](./images/designspaceattempt2.jpeg)
