@@ -21,4 +21,4 @@ Questions I want to explore this year that are reflected on the board are:
 - How do we work ethically with other species?
 - What forms of storytelling help us shape our futures?
 
-![](./images/designspaceattempt2.jpg)
+![](./images/designspaceattempt2.jpeg)
