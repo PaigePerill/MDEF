@@ -15,4 +15,4 @@ The imagery included in the poster shows famous biodesign projects and tools, fr
 
 **Personal Development Plan**
 
-![](../images/Design-Studio/personaldevelomentplan.pdf)
+![](../images/01-Bootcamp/personaldevelomentplan.pdf)
