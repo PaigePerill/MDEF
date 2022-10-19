@@ -7,11 +7,7 @@ hide:
 
 ==^^Assignment: "Reflect on the 4 different roles of prototyping"^^==
 
-
-
-
-
-
+<br>
 
 
 Context: We explored prototyping and its manifestations.
@@ -21,10 +17,7 @@ Prototyping is a way to generate knowledge. It allows for the combining of exper
 We can divide prototyping into 4 roles. In this section I am exploring how I have used prototyping in my projects, especially my ongoing project [Electric Skin](https://www.linkedin.com/company/electric-skin/).
 
 
-
-
-
-
+<br>
 
 
 ==Role 1 - The Prototype as an Experimental Component==
@@ -39,7 +32,7 @@ The Chitin tests were inconclusive - the drying process revealed shrinkage probl
 Hence we tested Nada’s render with clay (which was what the 3D printer was made for) which gave better results, but still showed us that the intricacies of the design (the wavy surface texture) was difficult to 3D print in the sense that we could not get the extrusion speed right and layers or clay would be peeled off.
 
 
-
+<br>
 
 
 *Case Study 2
@@ -48,10 +41,7 @@ I decided to use psychedelics and try to enter into a dialogue with my own micro
 
 
 
-
-
-
-
+<br>
 
 
 
@@ -64,10 +54,7 @@ I recorded their reactions and talked to the participants about their feelings e
 
 
 
-
-
-
-
+<br>
 
 
 
@@ -81,10 +68,7 @@ Daniel Grushkin and Alexandra Kisielewski, the team behind [Biodesigned Magazine
 
 
 
-
-
-
-
+<br>
 
 
 
@@ -97,9 +81,7 @@ As I am going through the Electric Skin Adventure: the process of building a bio
 
 
 
-
-
-
+<br>
 
 
 
@@ -112,14 +94,7 @@ As I am going through the Electric Skin Adventure: the process of building a bio
 3. Prototyping as research archetype —> Intervention 3 / Interspecies Messages in Bioresin. I would like to prototype a physical storytelling  urban intervention as a way to give a voice to necessary interspecies futures.
 
 
-
-
-
-
-
-
-
-
+<br>
 
 
 ==^^Assignment: "Map your Design Toolbox"^^==
