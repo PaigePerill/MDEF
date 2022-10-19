@@ -10,11 +10,19 @@ hide:
 
 
 
+
+
+
+
 Context: We explored prototyping and its manifestations.
 
 Prototyping is a way to generate knowledge. It allows for the combining of expertise from various backgrounds. In that sense, the way we prototype shapes our project.
 
 We can divide prototyping into 4 roles. In this section I am exploring how I have used prototyping in my projects, especially my ongoing project [Electric Skin](https://www.linkedin.com/company/electric-skin/).
+
+
+
+
 
 
 
@@ -30,9 +38,20 @@ We then tested this paste in the 3D printer (EAZAO make). Our Chitin material’
 The Chitin tests were inconclusive - the drying process revealed shrinkage problems but the biggest lesson was that perhaps in the Electric Skin project, that was not where we wanted to innovate.
 Hence we tested Nada’s render with clay (which was what the 3D printer was made for) which gave better results, but still showed us that the intricacies of the design (the wavy surface texture) was difficult to 3D print in the sense that we could not get the extrusion speed right and layers or clay would be peeled off.
 
+
+
+
+
 *Case Study 2
 I spent July 2022 in San Juan de Terreros in Andalucia at a Residency called [Montemero](https://www.montemero.eu/). There I did extensive reading, catching up on basic biology concepts, biodesign theory and building microbial literacy. One seminal work I read was “Microbes and other Shamanic being” by Cesar Heredo hzihf. In this book, which is his phd thesis, he compares anthropological accounts of shamanistic spirits and our current understanding of microbiology. He makes intriguing parallels, and theorises that perhaps, some of these “spirits” (in quotes because he extensively critiques this word) are in fact microbes, and that some shamans are entering in a human/non-human dialogue through the use of altered states (extensive fasting, psychedelics etc). As we work with Electric Skin, and enter ourselves in a collaboration with Geobacter Sulfureduccens, I have been questioning how we can understand what this species “needs” and how to work ethically with it. I wonder how to even answer that question when we are so far removed (this bacteria is one of the oldest on earth). How does a Human step into its perspective and remove as much bias as possible. Explore Other Modes of Knowing. I decided to test Cesar’s Theory myself; Can we used altered states as a way to communicate with microbes, and specifically our own microbial communities? Can we use altered states to explore knowledge beyond our rational thinking brain?  
 I decided to use psychedelics and try to enter into a dialogue with my own microbial ecosystems.  in the evening  I took a synthetic version of mescaline (close to a so called heroic dose) and   consciously invited my body to surrender to the substance. As the night progressed I went up to the rooftop overlooking the desert and stood upright, soles rooted into the ground and hands turned upwards. By adopting this posture, I was attempting to make myself a satellite to within and voiced “I am here, I am listening”. Immediately in this altered state, my entire body entered in state of paresthesia.  A response from my microbial community? While it is impossible know where the lines of reality were, this experience can be seen as a way of using process to inquire about other modes of knowing to relate to the non-human.
+
+
+
+
+
+
+
 
 
 
@@ -42,6 +61,13 @@ This involves prototyping to explore something that you don’t know yet. To unc
 
 I attended the Future of Life 2022 program in Karlsruhe and participated in the Human-Non-Human workshop track organized and taught by Paula Nerlich and Romy Kaiser of the HBBE and Human Bacteria Interfaces. There we explored working with Non-Humans, with a special focus on microbes (with Electric Skin, I am working with *Geobacter sulfurresducens*, and I’m interested in deepening my knowledge of this species, and learn how to work well/ethically with it. I was able to use the facilities at HfG Karlsruhe and 3D print our prototype in a bioresin. I wanted to explore how strangers might react to our Wall Light prototype, especially it shape, its texture, and its meaning given a bit context. At the end of the week, during our presentation, I invited the participants to join me in a “ritual”. More specifically I invited them to imagine they were waking up and performing a morning routine: walking to the light and contemplating their relationship with the non-human through this symbolic object/subject. I then invited them to come close to the prototype and touch the object.
 I recorded their reactions and talked to the participants about their feelings engaging in this exercise. Many commented on the “gooeyness” of the object, and the strangeness of it. The exploration revealed our chosen form for the prototype was alien. An effect we were hoping to produce (ie offering an alternative materiality to the objects that surround us) however it also showed us that this is the main message people receive. They feel the strangeness of it but forget the more exciting underlying biodesign principle (electricity from the air + biodegradable object).
+
+
+
+
+
+
+
 
 
 
@@ -55,12 +81,25 @@ Daniel Grushkin and Alexandra Kisielewski, the team behind [Biodesigned Magazine
 
 
 
+
+
+
+
+
+
+
 ==Role 4 - The *Process* of prototyping as a vehicule for inquiry==
 
 Here it’s the process specifically that is interesting: that is a means to discover. The prototyping process here can also be a dialogue with yourself and hence be a method of autobiographical inquiry.
 
 *Case Study.
 As I am going through the Electric Skin Adventure: the process of building a biodesign project, I am discovering the challenges of navigating the biotech industry. I am confronted to issues in accessing labs or even understanding the species I am working with. I am uncovering communities and funding vehicles, as well as other interesting practitioners and organizations in the field. Here, the process is crucial. Without it, I am not fit to enact my future goals which are to establish a residency for biodesign.  
+
+
+
+
+
+
 
 
 
@@ -71,6 +110,12 @@ As I am going through the Electric Skin Adventure: the process of building a bio
 2. Prototyping as inquiry  —> Intervention 2 / Interspecies Homes : I intend to uncover frameworks for working with the non human. By choosing a specific geography: the home, I hope to narrow my zone of focus and experiment with a reduced selection of species.
 
 3. Prototyping as research archetype —> Intervention 3 / Interspecies Messages in Bioresin. I would like to prototype a physical storytelling  urban intervention as a way to give a voice to necessary interspecies futures.
+
+
+
+
+
+
 
 
 
