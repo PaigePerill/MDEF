@@ -20,7 +20,7 @@ We can divide prototyping into 4 roles. In this section I am exploring how I hav
 <br>
 
 
-[ ]Role 1 - The Prototype as an Experimental Component
+^^Role 1 - The Prototype as an Experimental Component^^
 
 Role 1 is about testing specific hypotheses. The prototype embeds the theory we’re trying to test.
 
@@ -48,7 +48,7 @@ I decided to use psychedelics and try to enter into a dialogue with my own micro
 
 
 
-[ ]Role 2 - The Prototype as a means of Inquiry
+^^Role 2 - The Prototype as a means of Inquiry^^
 
 This involves prototyping to explore something that you don’t know yet. To uncover a theory rather than compare hypotheses.
 
@@ -61,7 +61,7 @@ I recorded their reactions and talked to the participants about their feelings e
 
 
 
-[ ]Role 3 - The prototype as a research archetype
+^^Role 3 - The prototype as a research archetype^^
 
 This role involves using a prototype to physicalise a specific concept, understanding or space.  Here rather than waiting till we can prototype everything, then we simply prototype possibilities. Storytelling can be a way to manifest a research archetype - and Sci Fi is a good example of this.
 
@@ -75,7 +75,7 @@ Daniel Grushkin and Alexandra Kisielewski, the team behind [Biodesigned Magazine
 
 
 
-[ ]Role 4 - The *Process* of prototyping as a vehicule for inquiry
+^^Role 4 - The *Process* of prototyping as a vehicule for inquiry^^
 
 Here it’s the process specifically that is interesting: that is a means to discover. The prototyping process here can also be a dialogue with yourself and hence be a method of autobiographical inquiry.
 
@@ -89,7 +89,7 @@ As I am going through the Electric Skin Adventure: the process of building a bio
 
 
 
-The roles that feel the most interesting to me this year are:
+^^The roles that feel the most interesting to me this year are:^^
 
 1. The Process as the prototype: —-> Intervention 1 / Electric Skin. I want to keep exploring the process of running a biodesign project. What resources do I need and do I lack? What networks do I need to build? What technologies and communities can I leverage to bring it further? Each Step of the journey is valuable information, meticulously documented for future use.
 
@@ -106,4 +106,4 @@ The roles that feel the most interesting to me this year are:
 __Assignment: "Map your Design Toolbox"__
 <br>
 
-<iframe src="https://embed.kumu.io/086823451ad6b3e0caef3d1a0d9a967f" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/d5a507d3720c6567eb5747b80dc2d7dc" width="940" height="600" frameborder="0"></iframe>
