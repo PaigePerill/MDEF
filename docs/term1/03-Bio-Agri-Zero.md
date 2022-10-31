@@ -7,7 +7,7 @@ hide:
 
 <br>
 
-This section of the MDEF journey focuses on giving a condensed recap on the building blocks of biology, the scientific method and the ways designers can interact it. Nuria Conde Pueyo and Jordi Plat taught us the Biology part, each day unloading new swaths of knowledg. Some information was entirely new to me and had to do with to complex systems and the interaction between the scales of life. Jonathan Minchin then intervened on the Agriculture section, sharing his journey with projects ROMI and OpenSource BeeHives. He emphasized the necessity of working with life - practically before conceptually.
+This section of the MDEF journey focuses on giving a condensed recap on the building blocks of biology, the scientific method and the ways designers can interact it. Nuria Conde Pueyo and Jordi Plat taught us the Biology part, each day unloading new swaths of knowledge. Some information was entirely new to me and had to do with to complex systems and the interaction between the scales of life. Jonathan Minchin then intervened on the Agriculture section, sharing his journey with projects ROMI and OpenSource BeeHives. He emphasized the necessity of working with life - practically before conceptually.
 
 
 <br>
