@@ -38,6 +38,9 @@ The course allowed us to learn about DIY Biology and Biolabs, Nuria having found
 
 The article is beautiful, well written. It starts with a portrait of Neolithic times, describing the scene of a forest clearing by Neolithic peoples and how that action allows for Heather to proliferate freely: the fire activating its seeds for the next spring.
 
+![](../images//entrapment.png)
+
+
 <br>
 
 
@@ -60,4 +63,4 @@ The article reminded me of the concept of the Anthropocene, and the debate over 
 <br>
 
 
-Løvschal’s view is not optimistic. And the story he tells is important. As we move into territories of genetic engineering, it becomes even more imperative to understand how human interventions on species and landscape change society, and the pattern these changes lock us into. But is this even possible? There are limits to the human brain after all. Could technologies like AI or quantum computing help us predict the deep time ways in which ongoing domestications will trap us?  And even further, could we more away from patterns of domestication but instead into conscious Interspecies Collaboration? What would that even mean? To be explored… 
+Løvschal’s view is not optimistic. And the story he tells is important. As we move into territories of genetic engineering, it becomes even more imperative to understand how human interventions on species and landscape change society, and the pattern these changes lock us into. But is this even possible? There are limits to the human brain after all. Could technologies like AI or quantum computing help us predict the deep time ways in which ongoing domestications will trap us?  And even further, could we more away from patterns of domestication but instead into conscious Interspecies Collaboration? What would that even mean? To be explored…
