@@ -51,6 +51,9 @@ The author: Mette Løvschal , goes on to describe how this scene, while it may b
 
 Indeed, when we look at the literature, we find several papers that studied heather and its « fire response ». Some varieties of heather almost demand to be burned for their seeds to spread properly, while others don’t. The varieties that have a fire response correlate to deep time patterns in human activity [Vandvik, Vigdis & Töpper, Joachim & Cook, Zoë & Daws, Matthew & Heegaard, Einar & Måren, Inger & Velle, Liv. (2014). Management-driven evolution in a domesticated ecosystem. Biology Letters. 10. 10.1098/rsbl.2014.0156. ] proving a history of coevolution, and arguably, mutual domestication.
 
+<br>
+
+
  *«  The heathlands of the Holocene were anthropogenic. The sunlight and fire were not gifts of a changing climate. They were bestowed by Neolithic agro-pastoralists who began felling and burning the understory to make forest clearings. [...] It couldn’t be left alone. Heather now depended on the focused attention of people, on frequent grazing by the animals of pastoralists, and on fire to prevent its botanical competitors, such as birch and crowberry, from taking over the new sun-lit clearings.  »*.
 
 
