@@ -32,7 +32,7 @@ The course allowed us to learn about DIY Biology and biolabs, Nuria having found
 
 
 
-   Our homework for this course was to chose a journalistic article somehow relating to biology or agriculture and comment on it + tie it to existing scientific articles.
+   ^^Assignment: Choose a journalistic article relating to biology or agriculture and comment on it + tie it to existing scientific articles^^
 
 
 
