@@ -7,20 +7,21 @@ hide:
 
 <br>
 
-This section of the MDEF journey focuses on giving a condensed recap on the building blocks of biology, the scientific method and the ways designers can interact it. Nuria Conde Pueyo and Jordi Plat taught us the Biology part, each day unloading new swaths knowledge, some that I had previously interacted with and long forgotten and some entirely new relating to complex systems and the interaction between the scales of life. Jonathan Minchin then intervened on the Agriculture section, sharing his journey with projects ROMI and OpenSource  BeeHives. He honed in on the necessity of working with life - practically before conceptually.
+This section of the MDEF journey focuses on giving a condensed recap on the building blocks of biology, the scientific method and the ways designers can interact it. Nuria Conde Pueyo and Jordi Plat taught us the Biology part, each day unloading new swaths of knowledg. Some information was entirely new to me and had to do with to complex systems and the interaction between the scales of life. Jonathan Minchin then intervened on the Agriculture section, sharing his journey with projects ROMI and OpenSource BeeHives. He emphasized the necessity of working with life - practically before conceptually.
 
 
 <br>
 
 
-  I was particularly struck by the concept of Measure Transitions explained on the first day: The first measure transition is the appearance of Something from Nothing. The second measure transition is the appearance of unicellular life. What we consider life. The interaction of macromolecules leads to the third measure transition: Multicellular life. Some people consider a fourth measure transition which includes the appearance of organisms whose multicellular systems interact in complex systems: eg animals. Because of the interaction between bodies (complex multi-multicellular organisms), we can have a Cultural Evolution. And because of this, we are now able to change things. We are not a passive subjects of evolution we are an active participant. For example, we’ve developing knowledge in Synthetic Biology.
+  I was particularly struck by the concept of Measure Transitions explained on the first day: The first measure transition is the appearance of Something from Nothing. The second measure transition is the appearance of unicellular life.The interaction of macromolecules leads to the third measure transition: Multicellular life. Some people consider a fourth measure transition which includes the appearance of organisms whose multicellular systems interact in complex systems: eg animals. Because of the interaction between bodies (complex multi-multicellular organisms), we can have a Cultural Evolution. And because of this, we are now able to change things. We are not a passive subjects of evolution we are an active participant. Cue Synthetic Biology
 
 <br>
 
-  It left a question. What will be the next measure transition?
+ So what will be the next measure transition?
 
+<br>
 
-The course allowed us to learn about DIY Biology and Biolabs, Nuria having founded the one in Barcelona. She shared with us the basic equipment of a biolab and to each one, its hacked version. To me, that was very exciting: The fact that complex equipment can be reproduced on the cheap. the fact that biotech equipment becomes more and more affordable, and that many people are working on offering accesible versions, for science eduction. And the fact that designers can use these to start experimenting at home or DIY Labs.
+The course allowed us to learn about DIY Biology and biolabs, Nuria having founded the one in Barcelona. She shared with us the basic equipment of a biolab and to each one, its hacked version. To me, that was very exciting: The fact that complex equipment can be reproduced on the cheap. the fact that biotech equipment becomes more and more affordable, and that many people are working on offering accessible versions, for science eduction and beyond. And the fact that designers can use these to start experimenting at home or DIY Labs.
 
 <br>
 
