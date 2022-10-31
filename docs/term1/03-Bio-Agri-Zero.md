@@ -37,12 +37,17 @@ The course allowed us to learn about DIY Biology and Biolabs, Nuria having found
 
   I chose an essay from Aeon, an online publication with a philosophical focus. Its title: **«Mutual entrapment: As Neolithic people transformed prehistoric forests, they stumbled into an ecological trap. Domestication goes both ways »**
 
+
+
+![](../images//entrapment.png)
+
+
+
 <br>
 
 
 The article is beautiful, well written. It starts with a portrait of Neolithic times, describing the scene of a forest clearing by Neolithic peoples and how that action allows for Heather to proliferate freely: the fire activating its seeds for the next spring.
 
-![](../images//entrapment.png)
 
 
 <br>
