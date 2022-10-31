@@ -36,7 +36,7 @@ The course allowed us to learn about DIY Biology and biolabs, Nuria having found
 
 
 
-  I chose an essay from Aeon, an online publication with a philosophical focus. Its title: **«Mutual entrapment: As Neolithic people transformed prehistoric forests, they stumbled into an ecological trap. Domestication goes both ways »**
+  I chose an essay from Aeon, an online publication with a philosophical focus. Its title: «Mutual entrapment: As Neolithic people transformed prehistoric forests, they stumbled into an ecological trap. Domestication goes both ways»
 
 
 
