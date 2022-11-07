@@ -26,7 +26,7 @@ The imagery included in the poster shows famous biodesign projects and tools, fr
 
 
 
-![](../images/01-Bootcamp/krebbs.png)
+![](../images/01-Bootcamp/krebbspaige.png)
 
 
 
