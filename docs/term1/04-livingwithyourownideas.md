@@ -28,7 +28,7 @@ INSTAGRAM POST TO BE UPLOADED- The Innerspecies Meditation
 <br>
 
 
-I chose to explore the topic of Interspecies communication. This is a hugely challenging subject. Communication between humans can be difficult already, and we have barely scratched the surface of what it might mean to communicate with other species. We know how to domesticate and train our pets, we know how to make others species respond to our vocabulary - but entering in a mutual communication exercise has not been a forte of the human species. And when it comes to communicating with the microscopic, it's even more obscure.
+I chose to explore the topic of Interspecies communication. This is a hugely challenging subject. Communication between humans can be difficult already, and we have barely scratched the surface of what it might mean to communicate with other species. We know how to domesticate and train our pets, we know how to make others species respond to our vocabulary - but entering in a mutual communication exercise has not been a forte of the human species. And when it comes to communicating with the microscopic, it's even more obscure (and the need is not widely felt)
 
 
 To explore this subject designed a Microbial Body Scan. I researched the microbial communities at different sites on my body (scalp, palm, gut, feet), and tried to understand their role before diving in. In the 24h I then performed this meditation, scanning my body  and focusing on scalp, palm, gut and feet (for simplicity). I tried to simply observe the sensations in these corporeal spaces, internally vocalizing the names of certain species I knew to be there, and somehow sensing their work in the larger ecosystem of my body.
