@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-#BOOTCAMP
+# October 4th to 7th 2022 : Bootcamp 
 
 **Poster**
 
