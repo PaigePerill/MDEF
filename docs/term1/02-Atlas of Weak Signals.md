@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# October 10th to 14th: Atlas of Weak Signals
+# October 10th to 14th 2022 : Atlas of Weak Signals
 
 
 "A weak signal is an indicator of a potentially emerging issue, that may become significant in the future" Mikko Dufva.
