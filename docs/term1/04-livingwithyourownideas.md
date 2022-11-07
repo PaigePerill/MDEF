@@ -17,7 +17,7 @@ In essence, it can be useful when thinking about new technologies to prototype �
 <br>
 
 
-^^Assignment: Take a 24 hour period and embody one an aspect of your design space^^
+^^Assignment: Take a 24 hour period and embody one aspect of your design space^^
 
 
 <br>
