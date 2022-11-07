@@ -17,7 +17,7 @@ It can be useful when thinking about new technologies to protype “quick & dirt
 <br>
 
 
-^^Assignment: My project 
+^^Assignment: My project
 
 
 
