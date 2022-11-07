@@ -11,7 +11,7 @@ The Living with Your own ideas week is about exploring a concept without the nee
 
 The goal is to think through doing, and importantly, understand the design process as a situated action: u se yourself as a design research instrument. Taking a first person perspective (also called  autobiographical design, embodied ideation methods, autoethnography) allows you to immerse yourself personally in the concept, and get an experiencial perspective of you project and its socio-technical implications. The process of testing/prototyping on self and _living with_ allows you to, over a long period of time, uncover new assumptions and grasp an emotionality about technology that you can’t get from simply brainstorming.
 
-It can be useful when thinking about new technologies to prototype “quick & dirty” over time to dig out all of the impacts and consequences of this same tech as well as the visceral knowledge tied to it.
+In essence, it can be useful when thinking about new technologies to prototype “quick & dirty” over time to dig out all of the impacts and consequences of this  tech as well along with the visceral knowledge tied to it.
 
 
 <br>
