@@ -3,7 +3,11 @@ hide:
     - toc
 ---
 
-# Atlas of Weak Signals
+# October 10th to 14th: Atlas of Weak Signals
+
+
+"A weak signal is an indicator of a potentially emerging issue, that may become significant in the future" Mikko Dufva.
+
 
 ^^Assignment: "Choose your weak signals and arrange them on a board, attaching relevant reference projects, questions and  interventions"^^
 
