@@ -36,14 +36,14 @@ To explore this subject I designed a Microbial Body Scan. I researched the micro
 
 Doing this exercise obviously did not uncover any clear answers. Meditation is in the space of "Other forms of Knowing" and vocalizing any learnings from other states than the rational/intellectual is perhaps a futile thing (though it's been beautifully explored by poets, writers and musicians - eg The Doors of Perception By Aldous Huxley).
 
-But as I focused on the gut space, and the sensations that came up I remembered all the studies that have recently come out. Many are finding the microbial communities in our bodies are crucial to helping us produce the chemicals (the hormones) that we depend on everyday to function. In fact in that way, our emotions and the way we feel - by being an indirect result of the microbial species within us - could also be considered a form of communication. And by scanning my body, my microbes and noticing these emotions deeply, I an entering into a conscious relation with "my" microorganisms. I notice and acknowledge their work.
+But as I focused on the gut space, and the sensations that came up I remembered all the studies that have recently come out. Many scientist are finding the microbial communities in our bodies are crucial to helping us produce the chemicals (the hormones) that we depend on everyday to function. In that way, our emotions and the way we feel - by being an indirect result of the microbial species within us - are a valuable avenue of exploration in terms of interspecies collaboration. And by scanning my body and my microbes and noticing these emotions deeply, I am entering into a conscious relation with my microorganisms. I notice and acknowledge their work.
 
 I am a microbial world, I am a Home -
 
-Our emotions also hugely direct our thought patterns. How positive we feel (serotonin levels) can influence how creative we'll be on a day, or how many ideas will flow freely. Similarly strong doses of adrenaline (stress) might allow us to find a solution fast. Low levels of these could lock us in unhelpful, repeating patterns of thought. These are massive simplifications but the general story is there. By helping produce these chemicals, our microbes influence how we think, hence how we act. By entering into a conscious relationship with our emotionality, perhaps we also enter into a conversation with our microbes.
+Our emotions hugely direct our thought patterns. How positive we feel (serotonin levels) can influence how creative we'll be on a day, or how many ideas will flow freely. Similarly strong doses of adrenaline (stress) might allow us to find a solution fast. Low levels of these could lock us in unhelpful, repeating patterns of thought. While, these are massive simplifications, the general story is there. By helping produce these chemicals, our microbes influence how we think and hence how we act. By entering into a conscious relationship with our emotionality, perhaps we also enter into a conversation with our microbes.
 
 
-Again, it's to challenging to vocalize, confirm or put forward any clear fact as the result of this exploration. But two questions come out strongly:
+Again, it's challenging to vocalize, confirm or put forward any clear fact as the result of this exploration. But two questions come out strongly:
 
-- Could altered states be key for Interspecies Communication?
-- How can designers work with altered states to uncover more symbiotic objects or systems?
+- Could altered states (meditative or otherwise) be key for Interspecies Communication?
+- How can designers work with altered states to uncover more symbiotic systems?
