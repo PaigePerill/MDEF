@@ -19,7 +19,7 @@ The two weeks called Tech Beyond the Myth are dedicated to unpacking electronics
 
 <br>
 
-It was also fascinating to have the time to see the patterns of electronic. Our appliances, for the most part, are all based on the same basic components. Motors, sensors, cables, switches, batteries.  The same patterns we see in our bodies.  
+It was also fascinating to have the time to see the patterns of electronic. Our appliances, for the most part, are all based on the same basic components. Motors, sensors, cables, switches, batteries.  The same patterns we see in our bodies. 
 
 <br>
 
@@ -38,4 +38,4 @@ The field of bioelectronics has not emerged much yet. It’s still hidden in dee
 <br>
 
 
-Our team
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTQO_XSIxVUyx1t2SV1jZkZ3d_LaPaoD0acKGtcLQjWj1S_JzVHuQOAZpkNnTIJoewtk_96gw2rgTW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
