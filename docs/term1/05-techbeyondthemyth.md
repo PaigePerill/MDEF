@@ -19,11 +19,11 @@ The two weeks called Tech Beyond the Myth are dedicated to unpacking electronics
 
 <br>
 
-It was also fascinating to have the time to see the patterns of electronic. Our appliances are all based on the same basic components for the most parts. Motors, sensors, cables, switches, batteries.  The same patterns we see in our bodies.  
+It was also fascinating to have the time to see the patterns of electronic. Our appliances, for the most part, are all based on the same basic components. Motors, sensors, cables, switches, batteries.  The same patterns we see in our bodies.  
 
 <br>
 
-In fact while working with electronics was interesting, these past few weeks mostly helped me explore these larger ecosystem patterns. Life is electrical. And electricity is also biological force, essential to the functioning of our bodies.  Our hearts and muscles are analogous to valves and motors, our nerves like cables and our brain a myriad of systems but perhaps quintessentially a controller. Our microbes our sensors.  
+In fact while working with electronics was interesting, these past few weeks mostly helped me explore these larger ecosystem patterns. Life is electrical. And electricity is also biological force, essential to the functioning of our bodies.  Our hearts and muscles are analogous to valves and motors, our nerves like cables and our brain a myriad of systems but perhaps quintessentially a controller. Our microbes our sensors. 
 
 <br>
 
@@ -36,3 +36,6 @@ The field of bioelectronics has not emerged much yet. It’s still hidden in dee
 
 
 <br>
+
+
+Our team
