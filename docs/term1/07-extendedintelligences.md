@@ -7,7 +7,7 @@ hide:
 
 <br>
 
-The past two weeks have been about learning the basics of Artificial Intelligence with @taller estampa + Ramon Sangüesa Sole + Lucas Lorenzo Peña. One of the big questions in the field is of course « What is intelligence ». Age old question. Intelligence is textured, it’s multifaceted, and so are the machines we program.  
+The past two weeks have been about learning the basics of Artificial Intelligence with Taller Estampa, Ramon Sangüesa Sole and Lucas Lorenzo Peña. One of the big questions in the field is of course « What is intelligence ». Age old question. Intelligence is textured, it’s multifaceted, and so are the machines we program.  
 
 <br>
 
