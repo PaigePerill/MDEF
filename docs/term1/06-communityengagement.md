@@ -11,10 +11,10 @@ Design over, for, with → within.
 
 <br>
 
-We spent one week with Holon, a studio particularly interested in Transition Design. They emphasized the importance of designing within [communities] rather than for anyone. For me this posed many questions. Community is a complex term. Having lived around the world, I have dipped toes in many communities. I have also actively animated digital spaces, been part of communities of practice, visited intentional communities. But whether I really belonged in any of these is  a question. It seems, nowadays, this concept of community is becoming much larger, and we can belong in many at once.   Yet this question of deep belonging is not unimportant. It’s by immersion that we can truly relate. And the energy we spend in various spaces impacts how much we give and get from it or how much we drain it. In other words: how well we can design within.   The concept of communities is becoming larger in that it also starts again to recognize the non-human. Holon talked about the importance of mapping all the actants of a place and uncovering all the things that form the mesh of your design problematic (eg laws, lands, assumptions). This indeed seems crucial to relearn.    [actants: any kind of agent human or non human that intervenes in the problematic you’re facing] 
+We spent one week with Holon, a studio particularly interested in Transition Design. They emphasized the importance of designing within [communities] rather than for anyone. For me this posed many questions. Community is a complex term. Having lived around the world, I have dipped toes in many communities. I have also actively animated digital spaces, been part of communities of practice, visited intentional communities. But whether I really belonged in any of these is  a question. It seems, nowadays, this concept of community is becoming much larger, and we can belong in many at once. Yet this question of deep belonging is not unimportant. It’s by immersion that we can truly relate. And the energy we spend in various spaces impacts how much we give and get from it or how much we drain it. In other words: how well we can design within. The concept of communities is becoming larger in that it also starts again to recognize the non-human. Holon talked about the importance of mapping all the actants of a place and uncovering all the things that form the mesh of your design problematic (eg laws, lands, assumptions). This indeed seems crucial to relearn. [actants: any kind of agent human or non human that intervenes in the problematic you’re facing].
 
 
- Holon also talked about Optimistic Grumpiness- their stance as designers. They know the world has issues - hence the grumpiness but chose to be optimistic in tackling these issues. 
+Holon also talked about Optimistic Grumpiness- their stance as designers. They know the world has issues - hence the grumpiness but chose to be optimistic in tackling these issues. 
 
 
 <br>
@@ -24,7 +24,7 @@ We spent one week with Holon, a studio particularly interested in Transition Des
 
 <br>
 
-We also talked about communities as complex systems. We  need new patterns and vocabulary as designers. We cannot design for complexity the same way we design a chair. Today, more and more things are conscious objects of design. Systems, Bodies, Ecosystems.  Some concepts that particularly stood out were: 
+We also talked about communities as complex systems. We  need new patterns and vocabulary as designers. We cannot design for complexity the same way we design a chair. Today, more and more things are conscious objects of design. Systems, Bodies, Ecosystems. Some concepts that particularly stood out were: 
 
 
 <br>
