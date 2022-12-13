@@ -43,8 +43,11 @@ EVERYDAY PRACTICE. The battlefield is everyday life. We have to keep in mind the
 
 
 DESIGN AS MEDIATION. What’s interesting is not the actants per se, but more the dynamics and tensions between them. We cannot understand systems 100% - there’s always a part of unknown. 
+
 →When we grasp the system, we can then try an understand/identify the pressure or leverage points. 
+
 →We can them dream about what could be different.  Establish collective Desirable Futures that act as a north star. 
+
 →Then we craft an intervention portfolio (across different lenses - fabrication, legal, community)
 
 
