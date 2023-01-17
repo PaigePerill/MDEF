@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Design Studio
+# Design Studio Term 1 
 
 __Assignment: "Reflect on the 4 different roles of prototyping"__
 
