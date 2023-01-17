@@ -54,3 +54,12 @@ DESIGN AS MEDIATION. What’s interesting is not the actants per se, but more th
 <br>
 
 →Wait. Probe, Sense, Respond, Repeat. 
+
+
+^^Assignment:Build a map of your community and its Actants.^^
+
+
+<iframe src="https://embed.kumu.io/0719f7b51d865a3f05fb4cb41d54df45" width="940" height="600" frameborder="0"></iframe>
+
+
+
