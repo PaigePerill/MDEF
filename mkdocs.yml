@@ -11,7 +11,8 @@ repo_url: 'https://github.com/PaigePerill/MDEF.git'
 nav:
   - Home: index.md
   - Design Studio:
-      - Week 1: designstudio/designstudio.md
+      - Term 1: designstudio/designstudio.md
+      - Term 2: designstudio/designstudio2.md
   - Reflections :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
