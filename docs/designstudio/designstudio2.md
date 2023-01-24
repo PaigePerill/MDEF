@@ -15,3 +15,6 @@ summary of your journey so far, adding the repositioning of yourself and your pr
 Make explicit new project goals and next steps including a proposal for the 1st
 intervention of the second trimester (a draft will be discussed during the design
 reviews the week after).
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPOilaV8=/?moveToViewport=8720,-1017,7786,4912&embedId=301492584371" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
