@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# January11th to 13th 2023 : Design for the next Billion Seconds
+# January 11th to 13th 2023 : Design for the next Billion Seconds
 
 **Reflection**
 
