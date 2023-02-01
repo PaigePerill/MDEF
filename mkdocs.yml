@@ -13,7 +13,7 @@ nav:
   - Design Studio:
       - Term 1: designstudio/designstudio.md
       - Term 2: designstudio/designstudio2.md
-  - Reflections :
+  - Reflections:
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
@@ -27,7 +27,7 @@ nav:
           - Remixing Materials: term2/02-remixingmaterials.md
    - FabLab: 
       - Electronics and Coding: fablab/01-electronicsandcoding.md
-      - Design & Prototyping : fablab/02-designandprototyping.md
+      - Design & Prototyping: fablab/02-designandprototyping.md
 
 
           
