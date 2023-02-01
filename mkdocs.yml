@@ -26,9 +26,9 @@ nav:
           - Design for the Next Billion Seconds: term2/01-designforthenextbillionseconds.md
           - Remixing Materials: term2/02-remixingmaterials.md
    - FabLab: 
-      - Electronics and Coding: fablab/electronicsandcoding.md
-      - Design & Prototyping : fablab/designandprototyping.md
-      
+      - Electronics and Coding: fablab/01-electronicsandcoding.md
+      - Design & Prototyping : fablab/02-designandprototyping.md
+
 
           
           
