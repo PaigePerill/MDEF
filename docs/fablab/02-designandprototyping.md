@@ -23,8 +23,15 @@ CAD - Computer aided design → this is Rhino, Autocad etc. / this is where you 
 
 ^^Assignment:Experiment with a Modelling software^^
 
+I worked with Sami on the design of a plate for our upcoming biodesign dinner. Even though I took the precourse, and Sami had worked with Rhino for a jewelry course, we both had to relearn a lot of the commands. 
+
+We first drew the plate on paper to agree on what the shape would be 
+
 ![](../images//rhinodraw.jpeg)
 
+We then remembered we had to work with layer. So we created a cylinder which was our layer 1 and which we extruded. We then position tubes on top (our second layer)
+
 ![](../images//rhinofile.jpeg)
+
 
 
