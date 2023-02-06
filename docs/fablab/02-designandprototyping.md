@@ -13,4 +13,8 @@ hide:
 
 ^^Assignment:Experiment with a Modelling software^^
 
+![](../images//rhinodraw.jpeg)
+
+![](../images//rhinofile.jpeg)
+
 
