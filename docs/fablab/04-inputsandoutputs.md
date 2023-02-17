@@ -49,6 +49,7 @@ hashtag include <PubSubClient.h>
 hashtag include <Adafruit_Sensor.h>
 
 hashtag include <DHT.h>
+
 try 
 // Wi-Fi settings
 const char* ssid = "your_SSID";
