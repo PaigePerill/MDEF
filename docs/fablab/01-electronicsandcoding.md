@@ -83,4 +83,4 @@ In this code, the "pitches" library provides the frequency values for each note.
 
 We define the notes and note durations for the "Happy Birthday" melody, and then iterate over the notes to play them using the "tone" function. It's also necessary to add a delay between notes to create a pause, and use the "noTone" function to stop the tone after each note. 
 
-Finally, upload the code to the ESP32 Feather board and the buzzer should play the melody.
+Finally, upload the code to the ESP32 Feather board and the buzzer plays the melody.
