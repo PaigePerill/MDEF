@@ -27,3 +27,6 @@ Basic Principles of Arduino: ****Freedom to use, understand, modify and share yo
 
 Arduino invest a lot into education so even novices can learn the beasics of electronics. 
 They managed to create a community of people who aligh with the same spirit of learning and sharing and spread their knowledge via tutorials for everything and anything; A great body of knowledge has been built around the Arduino ecosystem.
+
+^^Assignment:make some music with your board and a simple buzzer^^
+
