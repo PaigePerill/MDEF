@@ -43,10 +43,13 @@ The following code communicates between a DHT11 temperature and humidity sensor 
 
 
 hashtag include <WiFi.h>
-hashtag include <PubSubClient.h>
-hashtag include <Adafruit_Sensor.h>
-hashtag include <DHT.h>
 
+hashtag include <PubSubClient.h>
+
+hashtag include <Adafruit_Sensor.h>
+
+hashtag include <DHT.h>
+try 
 // Wi-Fi settings
 const char* ssid = "your_SSID";
 const char* password = "your_PASSWORD";
