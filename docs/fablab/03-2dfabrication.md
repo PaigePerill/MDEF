@@ -55,7 +55,7 @@ Step 3 - Place a sample material on laser cutter, focus the beam and launch a te
 
 Step 4 - Place the desired material on the laser, refocus and raster several times until desired depth acheived. Final raster count: 5 passes. 
 
-![](../images//elecskinmov.jpeg)
+![](../images//elecskinlaser.jpeg)
 
 ![](../images//elecskinmov.MOV)
 
