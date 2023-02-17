@@ -39,7 +39,7 @@ To make a sensor and an actuator communicate using an ESP32 Feather board, you c
 10. Upload the sketch to the ESP32 Feather board and test the communication by sending control messages to the actuator from a separate device or application.
 
 
-The following code that communicates between a DHT11 temperature and humidity sensor and an LED actuator using MQTT:
+The following code communicates between a DHT11 temperature and humidity sensor and an LED actuator using MQTT:
 
 
 hashtag include <WiFi.h>
