@@ -576,21 +576,41 @@
 <p><ins>Assignment:try to use a sensor and and actuator to comunicate</ins></p>
 <p>(done with the help of brother and translated back as best possible) </p>
 <p>To make a sensor and an actuator communicate using an ESP32 Feather board, you can use a communication protocol such as MQTT. Here are the steps you can follow:
-1. Set up the ESP32 Feather board and connect the sensor and the actuator to the board&rsquo;s GPIO pins.
-2. Install the necessary software tools, such as the Arduino IDE and the ESP32 board support package.
-3. Install the MQTT library in the Arduino IDE, such as the &ldquo;PubSubClient&rdquo; library.
-4. Set up an MQTT broker, which is a message broker that enables communication between devices. You can use a cloud-based broker service such as AWS IoT or a local broker such as Mosquitto.
-5. In the sketch, include the necessary libraries for the ESP32, the sensor, and the actuator, as well as the &ldquo;PubSubClient&rdquo; library.
-6. Connect the ESP32 to the MQTT broker by specifying the broker&rsquo;s IP address, port, and client ID. You will also need to set up a username and password if the broker requires authentication.
-7. Publish the sensor data to an MQTT topic by using the &ldquo;publish&rdquo; function. The topic is a string that identifies the data being published, such as &ldquo;sensor/temperature&rdquo;.
-8. Subscribe to the MQTT topic that controls the actuator by using the &ldquo;subscribe&rdquo; function. The topic is a string that identifies the control message, such as &ldquo;actuator/control&rdquo;.
-9. In the callback function for the subscribed topic, read the control message and perform the appropriate action on the actuator, such as turning it on or off.
-10. Upload the sketch to the ESP32 Feather board and test the communication by sending control messages to the actuator from a separate device or application.</p>
+1. Set up the ESP32 Feather board and connect the sensor and the actuator to the board&rsquo;s GPIO pins.</p>
+<ol>
+<li>
+<p>Install the necessary software tools, such as the Arduino IDE and the ESP32 board support package.</p>
+</li>
+<li>
+<p>Install the MQTT library in the Arduino IDE, such as the &ldquo;PubSubClient&rdquo; library.</p>
+</li>
+<li>
+<p>Set up an MQTT broker, which is a message broker that enables communication between devices. You can use a cloud-based broker service such as AWS IoT or a local broker such as Mosquitto.</p>
+</li>
+<li>
+<p>In the sketch, include the necessary libraries for the ESP32, the sensor, and the actuator, as well as the &ldquo;PubSubClient&rdquo; library.</p>
+</li>
+<li>
+<p>Connect the ESP32 to the MQTT broker by specifying the broker&rsquo;s IP address, port, and client ID. You will also need to set up a username and password if the broker requires authentication.</p>
+</li>
+<li>
+<p>Publish the sensor data to an MQTT topic by using the &ldquo;publish&rdquo; function. The topic is a string that identifies the data being published, such as &ldquo;sensor/temperature&rdquo;.</p>
+</li>
+<li>
+<p>Subscribe to the MQTT topic that controls the actuator by using the &ldquo;subscribe&rdquo; function. The topic is a string that identifies the control message, such as &ldquo;actuator/control&rdquo;.</p>
+</li>
+<li>
+<p>In the callback function for the subscribed topic, read the control message and perform the appropriate action on the actuator, such as turning it on or off.</p>
+</li>
+<li>
+<p>Upload the sketch to the ESP32 Feather board and test the communication by sending control messages to the actuator from a separate device or application.</p>
+</li>
+</ol>
 <p>The following code that communicates between a DHT11 temperature and humidity sensor and an LED actuator using MQTT:</p>
-<h1 id="include">include <WiFi.h><a class="headerlink" href="#include" title="Permanent link">&para;</a></h1>
-<h1 id="include_1">include <PubSubClient.h><a class="headerlink" href="#include_1" title="Permanent link">&para;</a></h1>
-<h1 id="include_2">include <Adafruit_Sensor.h><a class="headerlink" href="#include_2" title="Permanent link">&para;</a></h1>
-<h1 id="include_3">include <DHT.h><a class="headerlink" href="#include_3" title="Permanent link">&para;</a></h1>
+<p>hashtag include <WiFi.h>
+hashtag include <PubSubClient.h>
+hashtag include <Adafruit_Sensor.h>
+hashtag include <DHT.h></p>
 <p>// Wi-Fi settings
 const char* ssid = &ldquo;your_SSID&rdquo;;
 const char* password = &ldquo;your_PASSWORD&rdquo;;</p>
@@ -602,10 +622,10 @@ const char* mqtt_client_id = &ldquo;esp32_client&rdquo;;</p>
 <p>// MQTT topics
 const char* sensor_topic = &ldquo;sensor/temperature_humidity&rdquo;;
 const char* actuator_topic = &ldquo;actuator/led_control&rdquo;;</p>
-<p>// DHT11 settings</p>
-<h1 id="define-dhtpin-4">define DHTPIN 4<a class="headerlink" href="#define-dhtpin-4" title="Permanent link">&para;</a></h1>
-<h1 id="define-dhttype-dht11">define DHTTYPE DHT11<a class="headerlink" href="#define-dhttype-dht11" title="Permanent link">&para;</a></h1>
-<p>DHT dht(DHTPIN, DHTTYPE);</p>
+<p>// DHT11 settings
+hashtag define DHTPIN 4
+hashtag define DHTTYPE DHT11
+DHT dht(DHTPIN, DHTTYPE);</p>
 <p>// LED actuator settings
 const int led_pin = 5;</p>
 <p>// Wi-Fi client and MQTT client
@@ -623,16 +643,22 @@ PubSubClient mqtt_client(espClient);</p>
     Serial.println(&ldquo;Connecting to Wi-Fi&hellip;&rdquo;);
   }
   Serial.println(&ldquo;Connected to Wi-Fi&rdquo;);</p>
-<p>// connect to MQTT broker
-  mqtt_client.setServer(mqtt_server, 1883);
-  mqtt_client.setCallback(callback);
-  while (!mqtt_client.connected()) {
-    Serial.println(&ldquo;Connecting to MQTT broker&hellip;&rdquo;);
-    if (mqtt_client.connect(mqtt_client_id, mqtt_username, mqtt_password)) {
-      Serial.println(&ldquo;Connected to MQTT broker&rdquo;);
-      mqtt_client.subscribe(actuator_topic);
-    } else {
-      Serial.print(&ldquo;Failed with</p>
+<p>// connect to MQTT broker</p>
+<p>mqtt_client.setServer(mqtt_server, 1883);</p>
+<p>mqtt_client.setCallback(callback);</p>
+<p>while (!mqtt_client.connected()) {</p>
+<div class="codehilite"><pre><span></span><code>Serial.println(&quot;Connecting to MQTT broker...&quot;);
+
+if (mqtt_client.connect(mqtt_client_id, mqtt_username, mqtt_password)) {
+
+  Serial.println(&quot;Connected to MQTT broker&quot;);
+
+  mqtt_client.subscribe(actuator_topic);
+
+} else {
+
+  Serial.print(&quot;Failed with
+</code></pre></div>
                 
                   
                     
