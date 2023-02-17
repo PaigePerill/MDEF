@@ -32,7 +32,7 @@ They managed to create a community of people who aligh with the same spirit of l
 
 ^^Assignment:make some music with your board and a simple buzzer^^
 
-(done with the help of brother) 
+(done with the help of brother and translated back as best possible) 
 
 1. Set up the ESP32 Feather board and connect a buzzer to the board's GPIO pin.
 2. Install the necessary software tools, such as the Arduino IDE and the ESP32 board support package.
