@@ -11,7 +11,7 @@ hide:
 "We can measure almost anything if we have something that reacts to the change. We can then measure that reaction"
 
 
-^^Assignment:try to use a sensor and and actuator to comunicate^^
+^^Assignment:try to use a sensor and and actuator to communicate^^
 
 
 (done with the help of brother and translated back as best possible) 
