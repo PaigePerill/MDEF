@@ -3,21 +3,17 @@ hide:
     - toc
 ---
 
-# February 14th - 17th 2023 : Design and Prototyping
+# February March 1st 2023 : CNC 
 
-**Link to repo**  https://github.com/PaigePerill/gotaplatemold-
 
 
 **Reflection**
 
-I allied with Sami and June for Microchallenge 1. We wanted to create an interchangeable biomaterial press, where various mold could be swapped out. 
+This class covered the topic of CNC (Computerized Numerical Control), which is a highly precise, adaptable and automated method of digital manufacturing suitable for various design purposes. CNC machines available can have three axes or more. These machines are generally heavy and use coolant liquids for heat reduction. CNC machines have two types of motors - a router motor (less expensive) and a spindle motor (quieter, with more power). To prevent material from breaking while milling, a lubricating substance is necessary, which can either be applied manually (less expensive, cleaner, and weaker) or automatically (costly, dirty, and powerful). Milling requires special attention to aspects such as the kerf tolerance and material "bounce back." Additionally, sharp edges are not achievable at the end of the milling process; instead, the edges are rounded or require a t-bone or dog bone shape to ensure support in the middle.
 
-As we drew some prototypes on  paper and illustrator, we realised laser cutting technology was not the most appropriate for that idea, so we focused on creating a mold only 1 or 2 layers deep, which could make shallow plates. 
-The interchangeable aspect then was more about positionning holes for screws that would make possible multiple plate configurations. 
+To fabricate with CNC, one must first create a 3D model and then export it to a g-code while adjusting the machine and material settings. Two different bits can be used for CNC machines, mills for milling (flat), and drills for creating holes (round). Moreover, there are different types of rotations such as straight, up, down, and compression. The chip load, which refers to the amount of material removed by each cutting tool revolution, must also be set up before milling. Milling can be done from either the top or the bottom for better accuracy, and attachments such as vacuum, T-slot, double-sided tape, screws, or taps can be used to ensure accuracy.
 
-We laser cut on cardboard on a small scale first to see if the holes were aligned and everything fit togtheer - and then we laser cut a the full scale on acrylic. Our tests were succesful but still the plates felt small. We might try again to make bigger plates. 
 
-To incorporate electronics we hoped we could make a humidity sensor that might be able to detect when the interior of the biomaterial was drying, or whether it was stayiong humid for too long (unfortunately I was away for that part so I can't reflect on it)
 
 
 
