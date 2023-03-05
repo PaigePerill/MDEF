@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# February 22nd 2023 : Design and Prototyping
+# February 22nd 2023 : 3D Scanning and Printing 
 
 
 

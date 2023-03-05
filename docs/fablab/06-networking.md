@@ -3,21 +3,19 @@ hide:
     - toc
 ---
 
-# February 14th - 17th 2023 : Design and Prototyping
-
-**Link to repo**  https://github.com/PaigePerill/gotaplatemold-
+# February 23rd 2023 : Networking
 
 
 **Reflection**
 
-I allied with Sami and June for Microchallenge 1. We wanted to create an interchangeable biomaterial press, where various mold could be swapped out. 
+The class what about understanding "What is a network?"
 
-As we drew some prototypes on  paper and illustrator, we realised laser cutting technology was not the most appropriate for that idea, so we focused on creating a mold only 1 or 2 layers deep, which could make shallow plates. 
-The interchangeable aspect then was more about positionning holes for screws that would make possible multiple plate configurations. 
+in Electronics, networking is about creating copies of information so that we can receive what others have and communicate with one another.
 
-We laser cut on cardboard on a small scale first to see if the holes were aligned and everything fit togtheer - and then we laser cut a the full scale on acrylic. Our tests were succesful but still the plates felt small. We might try again to make bigger plates. 
+ Throughout history, we have developed networks to move information from one place to another by creating parallel copies. We talked about about how information moves, bounces and can even be encrypted, by making frequent leaps. We discussed topics such as undersea optic cables, the energy consumption of these leaps, the significance of networks in history and how they are linked to current forms of communication. 
+ 
+ 
 
-To incorporate electronics we hoped we could make a humidity sensor that might be able to detect when the interior of the biomaterial was drying, or whether it was stayiong humid for too long (unfortunately I was away for that part so I can't reflect on it)
 
 
 
