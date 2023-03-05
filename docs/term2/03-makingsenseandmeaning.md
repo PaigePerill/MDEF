@@ -6,54 +6,50 @@ hide:
 # January 16th to 19th 2023 : Remixing Materials
 
 
-^^Assignment:Choose and analyse three materials:one material around me, one from the class references, and one ideal material.^^
+^^xxx^^
 
 
-1. Material around me: stainless steel 
+We fear meaninglessness. We fret about the ‘nihilism’ of this or that aspect of our culture. When we lose a sense of meaning, we get depressed. What is this thing we call meaning, and why might we need it so badly?
 
-Properties: Durable, anti-corosion, usable for a variety of applications from kitchenware to lab benches. Used to provide an elevated experience in homeware. 
+The concept of meaning is central to human existence. Meaning is what gives our lives a sense of purpose and direction. We use meaning to make sense of the world around us and to create a sense of order in our lives. Philosophy, religion, and design all grapple with the question of meaning, but their approaches differ. In philosophy, meaning is a fundamental concept that concerns the nature of reality, language, and thought. In religion, meaning is often tied to a transcendent reality or deity. In design, meaning is about creating products and experiences that have a purpose and resonate with people.
 
+Design is an industry that plays a significant role in shaping our daily lives. From the products we use to the environments we inhabit, design influences our experiences in profound ways. However, the design industry has often been criticized for being superficial and lacking in meaning. This is because it is heavily linked to a capitalist system that prioritizes mass production and efficiency over meaning. In this system, products are designed to be disposable, with little consideration for their impact on the environment or society. This approach has led to a culture of consumption that is not sustainable and does not promote a meaningful way of life.
 
-Description:  Stainless steel is a corrosion-resistant alloy of iron, chromium and, in some cases, nickel and other metals. Completely and infinitely recyclable, stainless steel is considered sustainable. 
+Designers have the power to infuse their work with meaning, and in doing so, create a better, more sustainable world. Designers can use their creativity and expertise to challenge the status quo and create products that are in alignment with other species and planetary boundaries. To achieve this, designers need to embrace a more holistic approach to design that considers the full lifecycle of a product, from its creation to its disposal.
 
-Story & Applications: Stainless stell is the result of a series of discoveries originating in Europe, but is especially due to the discovery of chromium, which, when miwed with other metals develops a strong resitance to rust phenomena. Depending on the mix of thre stainless steel, its application range from Boiler market, aeronautics, electronic components, railway equipment, tubes, chemical tanks and food vats, marine applications, containers,  Asphalt tankers, tubes, food containers, silos, conveyor chains, safety soles,Cutlery, cutting tools, hand tools, and springs. 
+Kevin Slavin, a designer, and technologist, argues that designers need to take a more active role in shaping the world around them. He suggests that designers need to engage with the systems and structures that govern our lives and question their underlying assumptions. Slavin argues that designers have the power to create products that not only serve a practical purpose but also have a deeper meaning. This can be achieved by designing products that are more sustainable, ethical, and socially responsible.
 
+Raj Patel, an academic and writer, argues that design needs to be reimagined in the context of a more sustainable and just world. He suggests that designers need to think beyond aesthetics and functionality and consider the broader social and environmental impact of their work. Patel argues that designers need to work in collaboration with other disciplines, such as ecology and sociology, to create products that are in harmony with the natural world and promote social justice.
 
+Jason W. Moore, an environmental historian, argues that designers need to consider the role of capitalism in shaping our world. Moore suggests that designers need to challenge the dominant economic system and work towards creating a more sustainable and just world. This can be achieved by designing products that are more durable and long-lasting, rather than disposable and short-lived. Moore argues that by doing so, designers can promote a culture of care and responsibility that is more in alignment with other species and planetary boundaries.
 
-2. Reference material: Mycelium 
+Gregory Bateson, a philosopher, and anthropologist, argued that meaning is not something that can be found in the object or experience itself but is rather a product of the relationship between the individual and the environment. Bateson suggests that designers need to consider the relationship between the user and the product and design products that promote a meaningful relationship. This can be achieved by designing products that are more interactive and engaging, that encourage the user to form a deeper connection with the product.
 
-
-Properties: depending on the mycelium strain used and the substrate it has been grown on mycelium can be tasty, fire resistant, structural, hrydropobic, textured, 
-
-Description: Mycelium usually is a white or brownish material, which can then be transformed in a variety of ways. It can be given a leather finish, or a "natural" finish if it is simply dried. 
-
-Story & Applications : Mycelium materials begin being seen on an industrial scale because of one company: Ecovative. They have patented several species and processes for working with mycelium. However many open source forums emerged where a sharing of knowledge between hobbyists created many new discoveries and applications for mycelium composites - from acoustic pannels to surfboards and seafood replacements. 
+In conclusion, meaning is a fundamental concept that is central to human existence. It is what gives our lives a sense of purpose and direction. Designers have the power to infuse their work with meaning, and in doing so, create a better, more sustainable world. By embracing a more holistic approach to design and considering the broader social and environmental
 
 
 
-3. Ideal material: Electric Skin
+https://aeon.co/essays/what-is-better-a-happy-life-or-a-meaningful-one
+meaning is about the future, or, more precisely, about linking past, present and future.Meaning, on the other hand, seems to come from assembling past, present and future into some kind of coherent story.
+
+it appears that meaningfulness is about doing things that express yourself
+
+We want our lives to have value, to fit into some kind of intelligible context.
+
+We begin to see how the notion of a meaning of life puts two quite different things together. Life is a physical and chemical process. Meaning is non-physical connection, something that exists in networks of symbols and contexts. Because it is not purely physical, it can leap across great distances to connect through space and time.
+
+When modern Jews celebrate Passover, or when Christians celebrate communion by symbolically drinking the blood and eating the flesh of their god, their actions are guided by symbolic connections to events in the distant past (indeed, events whose very reality is disputed). The link from the past to the present is not a physical one, the way a row of dominoes falls, but rather a mental connection that leaps across the centuries.
+
+https://aeon.co/ideas/what-did-max-weber-mean-by-the-spirit-of-capitalism
+The blinkered pro­fessional ethic was common to entrepreneurs and an increasingly high-wage, skilled labour force, and it was this combination that produced a situation where the ‘highest good’ was the making of money and ever more money, without any limit. This is what is most readily recognisable as the ‘spirit’ of capitalism, but it should be stressed that it was not a simple ethic of greed which, as Weber recognised, was age-old and eternal. In fact there are two sets of ideas here, though they overlap. There is one about potentially universal rational pro­cedures – specialisation, logic, and formally consistent behaviour – and another that is closer to the modern economy, of which the central part is the professional ethic.
 
 
-Properties:  A biomaterial that generates electricity. Beautiful, Growable,  Compostable. . 
-
-Description: Alginate composite embedded with protein nanowires from bacteria Geobacter Sulfureducens.
-
-Story & Applications: I am co-developing Electric skin as part of a collective of 4 women including Nada El Kharashi, Catherine Euale, Sequoia Fisher
-
-Straddling speculative energy futures and current innovation, we are developing a new biomaterial that can generate electricity from the humidity in the air, using pili: the protein nanowires from Geobacter sulfurreducens. We are doing this with the help of UMASS University, and the lead scientists at the origin of this research who pioneered the basic technology: AirGen. We recently were awarded a small grant from the European Commission's Worth Project to develop Electric Skin and are being incubated by this program as well as Pandora Hub to prototype and scale the technology. Our vision is of a radically sustainable energy future, where our power generation and our electronics are growable and compostable. Where our electronic devices have a new materiality, complex, textured, and perhaps even alive.
-
-If we manage to scale this technology the applications may be endless, from biobatteries to "skins" capable of powering small electronics to power-generating wallpaper. 
+Yet thinking of craft and industry as opposites also leads to misperception. Whatever the scale, production always requires an understanding of materials, tools and processes somewhere along the line. The machines that make mass production possible, which spelled the end of so many traditional crafts, are themselves extraordinary feats of craftsmanship.
 
 
-^^Assignment:Research and Experiment with a New Material.^^
+Paige 
+Designers nowadays have gotten extremely skilled in manufacturing meaning for meaning's sake. Experts at rationalizing their work and marketing it through a ethico-philophical lense that ultimately is a placeholder. 
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFZQlGuaa8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFZQlGuaa8&#x2F;view?utm_content=DAFZQlGuaa8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">White and Black Minimalist Modelling Portfolio Video Presentation</a> by June Bascaran Bilbao
 
+Psychedelics, the death of ego and meaning through deeply embodied experiences: https://atmos.earth/psychedelics-plant-medicine-climate-activism/
 
