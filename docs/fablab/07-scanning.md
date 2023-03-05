@@ -3,21 +3,25 @@ hide:
     - toc
 ---
 
-# February 14th - 17th 2023 : Design and Prototyping
+# February 22nd 2023 : Design and Prototyping
 
-**Link to repo**  https://github.com/PaigePerill/gotaplatemold-
 
 
 **Reflection**
 
-I allied with Sami and June for Microchallenge 1. We wanted to create an interchangeable biomaterial press, where various mold could be swapped out. 
+In the early 1980s, the technology of 3D printing emerged as an additive manufacturing method with minimal waste, fast and easy production, and a high degree of design flexibility. This differs from subtractive manufacturing methods like CNC. One example of 3D printing is Fused Deposition Modelling (FDM), which extrudes thermoplastic material in thin lines to create objects. Materials such as Pla, Abs, Nylon, Petg, Tpu-filaflex and hips can be used in FDM printing. Another technique is Stereolithography (SLA), which is the oldest patented additive manufacturing process that builds a workpiece layer by layer using freely materializing points in space. No support is needed for SLA printing, unlike FDM. For metal parts, there is a technique called “3DP”, which uses lasers to sint thin layers of powdered material, and can print in liquids like resins or in the air. Programs like Ultimaker and Netfab Autocad can be used to create slices of the 3D file for printing. The thinner the slices, the more accurate the printing will be, but the longer it will take. The shell thickness and filling density can also be adjusted. Different shapes of fillings, such as rectangular, triangular, wiggle or honeycomb, can be used.
 
-As we drew some prototypes on  paper and illustrator, we realised laser cutting technology was not the most appropriate for that idea, so we focused on creating a mold only 1 or 2 layers deep, which could make shallow plates. 
-The interchangeable aspect then was more about positionning holes for screws that would make possible multiple plate configurations. 
+Photogrammetry is a tool that can be used to scan pictures to create 3D models for printing, while 3D shapes can be scanned using a laser like “Lidar 3d scanning” to create accurate models of objects, rooms, and buildings. Paste printers, such as the Wasp clay printer, Stoneflower 3D paste printer and Luthum, can print different kinds of liquids, such as clay or food. It is important to avoid using too much pressure and to eliminate air when using paste printers. 
 
-We laser cut on cardboard on a small scale first to see if the holes were aligned and everything fit togtheer - and then we laser cut a the full scale on acrylic. Our tests were succesful but still the plates felt small. We might try again to make bigger plates. 
+Different types of printers, including those with air pressure or screw pressure, are available. To print a 3D shape, it is designed and then sliced using programs like Grasshopper. 
 
-To incorporate electronics we hoped we could make a humidity sensor that might be able to detect when the interior of the biomaterial was drying, or whether it was stayiong humid for too long (unfortunately I was away for that part so I can't reflect on it)
+There are various open-source platforms where 3D models can be downloaded, such as “food4rhino” and “Thingiverse”.
+
+
+Assignment:  3D Print then Scan an Object
+
+
+
 
 
 
