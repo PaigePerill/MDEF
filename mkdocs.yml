@@ -25,12 +25,20 @@ nav:
       - Term 2:
           - Design for the Next Billion Seconds: term2/01-designforthenextbillionseconds.md
           - Remixing Materials: term2/02-remixingmaterials.md
+          - Making Sense and Meaning: term2/03-makingsenseandmeaning.md
+          - Communicating Design Ideas: term2/04-communicating.md
   - FabLab: 
     - Electronics and Coding: fablab/01-electronicsandcoding.md
     - Design & Prototyping: fablab/02-designandprototyping.md
     - 2D Fabrication: fablab/03-2dfabrication.md
     - Inputs & Outputs: fablab/04-inputsandoutputs.md
     - Microchallenge 1: fablab/05-microchallenge1.md
+    - Networking: fablab/06-networking.md
+    - Scanning: fablab/07-scanning.md
+    - Interfaces: fablab/08-Interfaces.md
+    - CNC: fablab/09-cnc.md
+    - Measuring the World: fablab/10-measuringtheworld.md
+    - Microchallenge 2: fablab/11-microchallenge2.md
 
     
 
