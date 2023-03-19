@@ -12,9 +12,6 @@ hide:
 
 For this class we focused deeply on inputs and outputs, especially the various sensors that exist and how they work. This was extremely useful becuase it was also about learning how to select a sensor for a specific task
 
-This topic was interesting because the group is working on a project involving grey water, and they wondered if a Smart Citizen Kit, which is used to measure water quality in the ocean, could be adapted to measure tap or grey water quality. The group discussed the potential benefits and drawbacks of this idea, such as increasing citizen knowledge and trust in the water system, or empowering them to take action and question the system
-
-. The group then worked with two boards to practice connecting different inputs and outputs. The first board involved connecting a LED and a button to make the LED light up when the button is pressed, and the second board involved experimenting with a Photo Cell sensor to detect light. They encountered some challenges with the resistors and the LED, which they will need to address before connecting the boards.
 
 ^^Assignment:try to use a sensor and and actuator to communicate^^
 
