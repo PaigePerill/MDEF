@@ -33,6 +33,7 @@ We had to relaunch the job two or thress times because the filament was not adhe
 
 I then tried to scan the piece with my phone and various apps several times but the best I got was this: 
 
+![](../images//scan.png)
  ![](../images//scan.mp4)
 
 
