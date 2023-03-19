@@ -9,14 +9,9 @@ hide:
 **Reflection**
 
 
-Measuring-the-world Journal: MDEF- Classroom Monitor
-====================
 
 #### Monitoring the environment in the MDEF classroom and speculating on it's potential effects on concentration
 
-**Table of Contents**
-
-[TOC]
 
 ## From Objectives to the Hypothesis
 
