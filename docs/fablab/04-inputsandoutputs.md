@@ -10,94 +10,14 @@ hide:
 
 "We can measure almost anything if we have something that reacts to the change. We can then measure that reaction"
 
+For this class we focused deeply on inputs and outputs, especially the various sensors that exist and how they work. This was extremely useful becuase it was also about learning how to select a sensor for a specific task
+
+This topic was interesting because the group is working on a project involving grey water, and they wondered if a Smart Citizen Kit, which is used to measure water quality in the ocean, could be adapted to measure tap or grey water quality. The group discussed the potential benefits and drawbacks of this idea, such as increasing citizen knowledge and trust in the water system, or empowering them to take action and question the system
+
+. The group then worked with two boards to practice connecting different inputs and outputs. The first board involved connecting a LED and a button to make the LED light up when the button is pressed, and the second board involved experimenting with a Photo Cell sensor to detect light. They encountered some challenges with the resistors and the LED, which they will need to address before connecting the boards.
 
 ^^Assignment:try to use a sensor and and actuator to communicate^^
 
 
-(done with the help of brother and translated back as best possible) 
-
-
-To make a sensor and an actuator communicate using an ESP32 Feather board, you can use a communication protocol such as MQTT. Here are the steps you can follow:
-1. Set up the ESP32 Feather board and connect the sensor and the actuator to the board's GPIO pins.
-
-2. Install the necessary software tools, such as the Arduino IDE and the ESP32 board support package.
-
-3. Install the MQTT library in the Arduino IDE, such as the "PubSubClient" library.
-
-4. Set up an MQTT broker, which is a message broker that enables communication between devices. You can use a cloud-based broker service such as AWS IoT or a local broker such as Mosquitto.
-
-5. In the sketch, include the necessary libraries for the ESP32, the sensor, and the actuator, as well as the "PubSubClient" library.
-
-6. Connect the ESP32 to the MQTT broker by specifying the broker's IP address, port, and client ID. You will also need to set up a username and password if the broker requires authentication.
-
-7. Publish the sensor data to an MQTT topic by using the "publish" function. The topic is a string that identifies the data being published, such as "sensor/temperature".
-
-8. Subscribe to the MQTT topic that controls the actuator by using the "subscribe" function. The topic is a string that identifies the control message, such as "actuator/control".
-
-9. In the callback function for the subscribed topic, read the control message and perform the appropriate action on the actuator, such as turning it on or off.
-
-10. Upload the sketch to the ESP32 Feather board and test the communication by sending control messages to the actuator from a separate device or application.
-
-
-The following code communicates between a DHT11 temperature and humidity sensor and an LED actuator using MQTT:
-
-  }#include <WiFi.h>
-  #include <PubSubClient.h>
-  #include <Adafruit_Sensor.h>
-  #include <DHT.h>
-  
-  // Wi-Fi settings
-  const char* ssid = "your_SSID";
-  const char* password = "your_PASSWORD";
-  
-  // MQTT broker settings
-  const char* mqtt_server = "your_MQTT_broker_IP_address";
-  const char* mqtt_username = "your_MQTT_username";
-  const char* mqtt_password = "your_MQTT_password";
-  const char* mqtt_client_id = "esp32_client";
-  
-  // MQTT topics
-  const char* sensor_topic = "sensor/temperature_humidity";
-  const char* actuator_topic = "actuator/led_control";
-  
-  // DHT11 settings
-  #define DHTPIN 4
-  #define DHTTYPE DHT11
-  DHT dht(DHTPIN, DHTTYPE);
-  
-  // LED actuator settings
-  const int led_pin = 5;
-  
-  // Wi-Fi client and MQTT client
-  WiFiClient espClient;
-  PubSubClient mqtt_client(espClient);
-  
-  void setup() {
-  // set the LED pin as an output
-  pinMode(led_pin, OUTPUT);
-  
-  // start the serial communication
-  Serial.begin(9600);
-
-  // connect to Wi-Fi
-  WiFi.begin(ssid, password);
-  while (WiFi.status() != WL_CONNECTED) {
-    delay(1000);
-    Serial.println("Connecting to Wi-Fi...");
-  }
-  Serial.println("Connected to Wi-Fi");
-
-  // connect to MQTT broker
-  mqtt_client.setServer(mqtt_server, 1883);
-  mqtt_client.setCallback(callback);
-  while (!mqtt_client.connected()) {
-    Serial.println("Connecting to MQTT broker...");
-    if (mqtt_client.connect(mqtt_client_id, mqtt_username, mqtt_password)) {
-      Serial.println("Connected to MQTT broker");
-      mqtt_client.subscribe(actuator_topic);
-    } else {
-      Serial.print("Failed with
-
-
-
+For the homework I worked in a group, I played with the the LDR light sensor in order to measure the the rooms' luminosity.  We tweaked to the code  so that the sensor could detect either light or dark instead of a range of light. However, there were some challenges with getting the sensor to detect in the right timing. To address this, I experimented with different resistor ohm amounts because the ESP32 board was 3v VS 5v. In the end the sensor was able to detect various levels of light from dim to bright. We collaborated to create another board that had a switch to turn the LED on and off. Although we encountered issues running the code on different computers and getting them to connect, the boards functionned independently.
 
