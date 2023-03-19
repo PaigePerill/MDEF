@@ -17,7 +17,10 @@ We then experimented by adding different messages to the code to see how the LED
 
 Eventually we turned off the light in the classroom and viewed our mini collective installation together. 
 
+https://i.imgur.com/cHTQ513.gif
+
 We also deepened our knowledge about MQTT, a protocol which is used to trigger things or retrieve information from sensors. We crafted our own "network" during class and sent each other message like "hello". MQTT is seemingly simple. An MQTT broker server can sense things, publishers that could be any sensors or devices, and subscribers that listen to the broker and wait for instructions on what to do. It is an important concept central to  the Internet of Things (IoT).
+
 
 
 
