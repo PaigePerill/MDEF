@@ -18,7 +18,8 @@ hide:
 ### Brainstorming Our Area of Interest
 
 |![](https://i.imgur.com/t5i81vM.jpg)|
-|:--:|
+
+
 |*Our Sticky Note Brainstorm*|
 
 After being in the MDEF classroom for the last 6 months, many of us voice disatisfaction with it as a learning environment. 
@@ -44,7 +45,6 @@ We hope to compare these two to see which has better learning conditions. Additi
 ### Research 
 
 Well-designed classrooms make a significant difference to academic performance where studies have found that improved physical characteristics can boost the learning abilities of students. In a study from University of Salford, UK, the findings reveal that certain design elements are intrinsic to improving learning in the classroom. These are: Daylight, Indoor air quality, Acoustic environment, Temperature, Classroom design and Stimulation (commercial.velux.com, n.d.).
-
 
 
 
