@@ -18,7 +18,31 @@ Different types of printers, including those with air pressure or screw pressure
 There are various open-source platforms where 3D models can be downloaded, such as “food4rhino” and “Thingiverse”.
 
 
-Assignment:  3D Print then Scan an Object
+Assignment:  3D Print then Scan an Object. 
+
+For this assignment I chose to 3D Print an object which a collaborator Jonathan Torres is proposing for my Electroc Skin project. It's a small module that can embed the skin and connect it to other identical module. This way in the future, we could connect various circuits and drive up the power output. 
+
+The file is in three parts that need to be stacked together. Aidai helped me choose the right settings: 
+![](https://i.imgur.com/xXwALX2.jpg)
+
+We had to relaunch the job two or thress times because the filament was not adhering properly to the base, but after the third try everything went smoothly: 
+![](https://i.imgur.com/Ee8EMaY.jpg)
+ 
+ ![](https://i.imgur.com/vckWl9c.jpg)
+
+
+I then tried to scan the piece with my phone and various apps several times but the best I got was this: 
+
+ ![](../images//scan.mp4)
+
+
+After that, I decided it would be interesting to scan a rock I have, and used the fablab's revo point scanner which was much more succesful: 
+
+![](https://i.imgur.com/wNMR6dA.jpg)
+
+
+
+
 
 
 
