@@ -42,9 +42,9 @@ They managed to create a community of people who aligh with the same spirit of l
 6. Write the melody you want the buzzer to play using the "tone" function. Specify the frequency and duration of each note in the melody.
 7. Upload the sketch to the ESP32 Feather board and test the buzzer to make sure it is playing the melody correctly.
 8. 
-
- "Happy Birthday" melody using the ESP32 Feather board and a buzzer:
+"Happy Birthday" melody using the ESP32 Feather board and a buzzer:
  
+```
 #include "pitches.h"
 
 // notes in the melody
@@ -77,6 +77,7 @@ void loop() {
     noTone(2); // stop the tone
   }
 }
+```
 
 
 In this code, the "pitches" library provides the frequency values for each note. 
