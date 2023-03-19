@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# February 9th 2023 : Design and Prototyping
+# February 9th 2023 : Inputs and Outputs 
 
 
 **Reflection**
