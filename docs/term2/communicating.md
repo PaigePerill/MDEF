@@ -46,3 +46,5 @@ This a new methodology for climate action, based on the original problem solving
 **Electric Skin** is a new, self powering material. It generate electricity from the humidity in the air.
 
 Our vision is of a radically sustainable energy future, where our power generation and our electronics are growable and compostable. Where our electronic devices have a new materiality, complex, textured, and perhaps even alive.
+
+. 
