@@ -21,3 +21,5 @@ We did try and follow Victor to execute a few operations on Blender, though many
 The last class of this seminar involved live coding. This was also fasccinating to me, because although I don't connect to this practice, I could see the existence of a whole community of practice, gathering common excercices and sharing skills purely for art's sake. In the classes we learned that coders sometimes invent their own languages and interfaces as is the case with Hydra. it was fun to experiment with the software and be guided through it, though this is not my world and I likely won't interact with this much further. 
 
 
+
+
