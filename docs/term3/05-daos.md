@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# April 11th to 14th 2023 : Distributed Design
+# May 10th to 12th 2023 : Decentralized Autonomous Organisations
 
 **Reflection**
 
