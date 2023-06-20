@@ -34,6 +34,7 @@ nav:
           - Design Ethics: term3/03-designethics.md
           - Critical Transfeminist Design: term3/04-criticaltransfeministdesign.md
           - DAOS: term3/05-daos.md
+        
   - FabLab: 
     - Electronics and Coding: fablab/01-electronicsandcoding.md
     - Design & Prototyping: fablab/02-designandprototyping.md
@@ -46,6 +47,7 @@ nav:
     - CNC: fablab/09-cnc.md
     - Measuring the World: fablab/10-measuringtheworld.md
     - Microchallenge 2: fablab/11-microchallenge2.md
+    - Microchallenge 3: fablab/12-microchallenge3.md
 
     
 
