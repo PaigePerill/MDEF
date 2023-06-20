@@ -21,6 +21,3 @@ Link to the spreadsheet: https://docs.google.com/spreadsheets/d/1RoIVwWUJukrAahu
 
 
 
-
-
-
